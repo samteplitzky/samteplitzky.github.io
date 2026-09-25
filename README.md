@@ -97,6 +97,7 @@ _Links_<br>
 - **Junior Fellow** _(Summer 2003)_ <br>
 
 ## Publications
+- Broekgaarden, F. S., Van-Lane, P. R., Levina, S., Bello, A., Gesing, S., Katz, D. S., Patel, B., Shan, P., Teplitzky, S., Thill, S., Williams, P. K. G., & Zonca, A. (2026). A practical primer on software citation in research. [https://arxiv.org/abs/2609.28622](https://arxiv.org/abs/2609.28622)<br>
 - del Junco, Cay, Kayleigh Bohémier, Willow Dressel, Amanda Schilling, Wes Honeycutt, Mark Laufersweiler, Jerry Zhu, Marcelo Garcia, Samantha Teplitzky, Misha Coleman, and Brian Quigley. 2026. “LaTeX Instruction in Academic Libraries: Section 1.” Journal of eScience Librarianship 15 (2): e1191. [https://doi.org/10.7191/jeslib.1191](https://doi.org/10.7191/jeslib.1191)<br>
 - Pourret, O., Arnould, M., Duretz, T., Farquharson, J., Irawan, D., Lai, L., Lefebvre, A., Magee, C., Millet, M.-A., Teplitzky, Samantha, Thomas, C., Vaucher, R., Waszek, L., Wieczorek, M., & Wong Hearing, T. (2026). The Rise of Diamond Open Access Journals in Earth Sciences: Past Developments, Present Tensions, and Future Pathways. EartharXiv. [https://doi.org/0.31223/X56J5](https://doi.org/0.31223/X56J5)<br>
 - Greenland, K., Teplitzky, S., Chen, E., & Deardorff, A. (2026). Bay Area Open Science Group 2025-26 Reflection. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21266669.svg)](https://doi.org/10.5281/zenodo.21266669)<br>
@@ -127,8 +128,9 @@ _Links_<br>
 - Cox, R., Atkinson, R. K., Bear, B. R., Brandriss, M. E., Chokel, C. B., Comstock, J. C., ... & Willis, M. P. (2000). Changes in a fringing reef complex over a thirty-year period: coral loss and lagoon infilling at Mary Creek, St. John, US Virgin Islands. Bulletin of marine science, 66(1), 269-277.<br>
 
 ## Presentations
-
-- Teplitzky, Samantha. (2025, November 4). Open Science in Practice: Software Sharing and Citation in Earth Science and Astronomy Journals. Library and Information Services in Astronomy (LISA) 2025, Santiago, Chile. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17749667.svg)](https://doi.org/10.5281/zenodo.17749667)
+- Teplitzky, Samantha. (2026, September 22). Research Data Management: Conducting Responsible, Reproducible Research. Yale Global Health Emerging Scholars invited talk, (online)<br>
+- Teplitzky, Samantha, & Sackmann, A. (2026, April 23). More Than Just Storage: Support for Open Scholarship through Campus Collaborations. UC Open Summit 2026, UC Berkeley. https://ucospo.net/events/uc-open-2026<br>
+- Teplitzky, Samantha. (2025, November 4). Open Science in Practice: Software Sharing and Citation in Earth Science and Astronomy Journals. Library and Information Services in Astronomy (LISA) 2025, Santiago, Chile. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17749667.svg)](https://doi.org/10.5281/zenodo.17749667)<br>
 - Teplitzky, Samantha. (2025, October 16). Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. Lightning talk at Cracking Open: Open Science Unconference, Carnegie Mellon University. [https://ucberk.li/pirc-gd](https://ucberk.li/pirc-gd) <br>
 - Teplitzky, Samantha. (2024, September 18). A panel on Diamond Open Access journals in the geosciences. AGU EPSP Connects monthly seminar series. [https://www.youtube.com/live/htYkqvHkNVo](https://www.youtube.com/live/htYkqvHkNVo) <br>
 - Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13260315.svg)](https://doi.org/10.5281/zenodo.13260315)<br>
