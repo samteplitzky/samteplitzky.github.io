@@ -142,20 +142,25 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Librarians Association of the University of California (LAUC) presentation grant (2016-17): “Taking the world for a spin: teaching spatial and data visualization with a digital globe,” presented at AGU Fall Meeting, San Francisco, CA, 2016<br>
 - Association of Pacific Coast Geographers Women’s Network Travel Award, September 2000<br>
 
-## Professional Organizations & Service
+## Service
+
+- UC Berkeley OSPO Advisory Board, 2026 - 
+- Users Group for the Astrophysics Data System (ADS), 2026 - 
+- AGU Publications Committee, 2026 - 
+- Incentivizing Reuse Working Group, Creative Commons, 2-4/2026
+- eScholarship Advisory Council, 2025 - 
 - Steering Committee, Open Science Collaborative of Library and Information Professionals (OSCLIP), 2025 -
 - US Representative to SCOAP3 Governing Council, 2024-2026
 - EarthArXiV Advisory Council, 2023-present
 - Editor, Journal of Librarianship and Scholarly Communications, 2022-present
 - Founding Open Science Executive Editor of Seismica, Diamond Open Access Journal, 2021-present 
-- Geoscience Information Society (GSIS), 2005-8, 2014-present
+- Geoscience Information Society (GSIS), 2005-8, 2014-2024
 
 ## Professional Development & Continuing Education
 - NASA TOPS (Transform to Open Science) Badge, May 2024 <br>
 - Scientific Community Engagement Fundamentals course (Center for Scientific Collaboration and Community Engagement), February-March 2021<br>
 - Carpentries Instructor Certification, Fall 2020<br>
 - Data Science Pedagogy and Practice Workshop, UC Berkeley Division of Data Science, June 3-5, 2019<br>
-- Blockchain & Decentralization for the Information Industries, March-April 2019<br>
 - EdX: Foundations of Data Science: Computational Thinking with Python, Spring 2018<br>
 
 ## Education

@@ -6,7 +6,6 @@ permalink: /publications.html
 
 # Publications
 
-## Publications
 - Broekgaarden, F. S., Van-Lane, P. R., Levina, S., Bello, A., Gesing, S., Katz, D. S., Patel, B., Shan, P., Teplitzky, S., Thill, S., Williams, P. K. G., & Zonca, A. (2026). A practical primer on software citation in research. [https://arxiv.org/abs/2609.28622](https://arxiv.org/abs/2609.28622)<br>
 - del Junco, Cay, Kayleigh Bohémier, Willow Dressel, Amanda Schilling, Wes Honeycutt, Mark Laufersweiler, Jerry Zhu, Marcelo Garcia, Samantha Teplitzky, Misha Coleman, and Brian Quigley. 2026. “LaTeX Instruction in Academic Libraries: Section 1.” Journal of eScience Librarianship 15 (2): e1191. [https://doi.org/10.7191/jeslib.1191](https://doi.org/10.7191/jeslib.1191)<br>
 - Pourret, O., Arnould, M., Duretz, T., Farquharson, J., Irawan, D., Lai, L., Lefebvre, A., Magee, C., Millet, M.-A., Teplitzky, Samantha, Thomas, C., Vaucher, R., Waszek, L., Wieczorek, M., & Wong Hearing, T. (2026). The Rise of Diamond Open Access Journals in Earth Sciences: Past Developments, Present Tensions, and Future Pathways. EartharXiv. [https://doi.org/0.31223/X56J5](https://doi.org/0.31223/X56J5)<br>

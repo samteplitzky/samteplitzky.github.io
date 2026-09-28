@@ -4,6 +4,41 @@
 /* 1. Import the default jekyll-theme-minimal stylesheet */
 @import "{{ site.theme }}";
 
+/* --- REMOVE LEFT SIDEBAR & EXPAND CONTENT AREA --- */
+
+/* 1. Set wrapper container to full width and center it */
+.wrapper {
+  max-width: 860px; /* Adjust page width as desired */
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+/* 2. Reset the header sidebar element if the theme left space for it */
+header {
+  float: none !important;
+  position: static !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 3. Reset main section so it takes 100% width without left margin */
+section {
+  float: none !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 4. Reset footer alignment */
+footer {
+  float: none !important;
+  width: 100% !important;
+  margin-top: 40px !important;
+  padding-top: 15px;
+  border-top: 1px solid #e5e5e5;
+}
+
 /* 2. CUSTOM TYPOGRAPHY & SPACING OVERRIDES */
 
 /* Import a custom Google Font (Optional) */
