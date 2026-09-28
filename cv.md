@@ -1,10 +1,10 @@
-# Samantha Teplitzky
-_https://samteplitzky.github.io/cv_ <br>
+---
+layout: default
+title: CV
+permalink: /cv.html
+---
 
-_Open Science Librarian & Community Builder_ <br>
-Interests: Open Science, Data, Reproducibility, Transparency in Research Workflows, Inclusive Community Building related to these topics
-
-[Email](mailto:samteplitzky@gmail.com) / [Scholar](https://scholar.google.com/citations?user=ICLk2GgAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0001-7071-332X) / [BlueSky](@samteplitzky.bsky.social)
+# Curriculum Vitae
 
 ## Recent Projects
 ### Open Science Collaborative of Library and Information Professionals (OSCLIP) _(2025-)_

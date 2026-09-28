@@ -1,1 +1,8 @@
+title: Sam Teplitzky
+description: Open Science Librarian & Researcher
 theme: jekyll-theme-minimal
+
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
