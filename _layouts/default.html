@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      
+      <!-- TOP NAVIGATION BAR -->
+      <nav style="display: flex; justify-content: space-between; align-items: center; padding-bottom: 15px; margin-bottom: 25px; border-bottom: 1px solid #e5e5e5;">
+        <div>
+          <a href="/" style="font-weight: bold; font-size: 1.2rem; text-decoration: none; color: #333;">Sam Teplitzky</a>
+        </div>
+        <div>
+          <a href="/" style="margin-right: 15px; text-decoration: none; font-weight: 600;">Home</a>
+          <a href="/cv.html" style="margin-right: 15px; text-decoration: none; font-weight: 600;">CV</a>
+          <a href="/publications.html" style="text-decoration: none; font-weight: 600;">Publications</a>
+        </div>
+      </nav>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages</small></p>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
