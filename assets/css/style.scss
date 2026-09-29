@@ -35,39 +35,110 @@ footer {
 }
 
 
-/* --- 2. HOME PAGE TWO-COLUMN LAYOUT (PASTE NEW CODE HERE AT THE BOTTOM) --- */
+/* --- SIDEBAR STYLE --- */
 
 .profile-layout {
   display: flex;
   flex-direction: row;
-  gap: 30px;
+  gap: 40px;
   align-items: flex-start;
   margin-top: 20px;
 }
 
+/* Sidebar Container */
 .profile-sidebar {
-  flex: 0 0 220px; /* Fixed width for photo sidebar */
+  flex: 0 0 240px;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  background-color: #fafafa;
 }
 
-.profile-sidebar img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px; /* Optional rounded corners */
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+/* Circular Avatar Image */
+.profile-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 15px auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border: 3px solid #ffffff;
+  display: block;
 }
 
-.profile-main {
-  flex: 1; /* Takes up remaining space */
+/* Author Name & Bio Details */
+.sidebar-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 0 0 5px 0;
+  color: #222;
 }
 
-/* Responsive adjustment for mobile screens */
-@media (max-width: 650px) {
+.sidebar-title {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0 0 4px 0;
+}
+
+.sidebar-affiliation {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 12px 0;
+}
+
+.sidebar-location {
+  font-size: 0.85rem;
+  color: #777;
+  margin-bottom: 15px;
+}
+
+.sidebar-divider {
+  border: 0;
+  border-top: 1px solid #e0e0e0;
+  margin: 15px 0;
+}
+
+/* Social & Contact Icon Links */
+.sidebar-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.sidebar-links li {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+.sidebar-links a {
+  color: #444;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: color 0.2s ease;
+}
+
+.sidebar-links a:hover {
+  color: #0056b3;
+}
+
+.sidebar-links i {
+  width: 18px;
+  text-align: center;
+  font-size: 1.05rem;
+  color: #555;
+}
+
+/* Responsive adjustment for small screens */
+@media (max-width: 700px) {
   .profile-layout {
     flex-direction: column;
   }
   .profile-sidebar {
     width: 100%;
-    max-width: 200px;
-    margin: 0 auto 20px auto;
+    box-sizing: border-box;
   }
 }
