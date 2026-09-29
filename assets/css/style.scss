@@ -45,14 +45,13 @@ footer {
   margin-top: 20px;
 }
 
-/* Sidebar Container */
+/* Sidebar Container (Container styles removed) */
 .profile-sidebar {
-  flex: 0 0 240px;
+  flex: 0 0 220px;
   text-align: center;
-  padding: 20px;
-  border: 1px solid #e5e5e5;
-  border-radius: 12px;
-  background-color: #fafafa;
+  padding: 0;           /* Removed padding */
+  border: none;         /* Removed border */
+  background: transparent; /* Removed background fill */
 }
 
 /* Circular Avatar Image */

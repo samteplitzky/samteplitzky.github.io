@@ -50,16 +50,14 @@ permalink: /
   <!-- MAIN BIO CONTENT -->
   <div class="profile-main">
     <h1>About Me</h1>
-    <p>I am an Open Science Librarian and Researcher. My work focuses on Open Science, Data, Reproducibility, Software Citation, Transparency in Research Workflows.</p>
+    <p>I am an Open Science Librarian and Researcher. My work focuses on Open Science, Data, Reproducibility, Software Citation, Transparency in Research Workflows. I support open scholarship initiatives across disciplines, helping researchers make their outputs open, transparent, and broadly accessible.</p>
 
     <h2>Research Interests</h2>
     <ul>
-      <li>Open Science</li>
-      <li>Reproducibility</li>
+      <li>Open Science Workflows</li>
+      <li>Reproducibility and Transparency</li>
       <li>Software Citation</li>
     </ul>
 
-    <h2>Biography</h2>
-    <p>TBD</p>
   </div>
 </div>
