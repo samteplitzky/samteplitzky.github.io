@@ -10,7 +10,7 @@ permalink: /
     <!-- Circular Avatar Image -->
     <img src="/assets/images/profile.jpeg" alt="Sam Teplitzky" class="profile-avatar">
     
-    <h2 class="sidebar-name">Sam Teplitzky</h2>
+    <h1 class="sidebar-name">Sam Teplitzky</h1>
     <p class="sidebar-title">Open Science Librarian</p>
     <p class="sidebar-affiliation">UC Berkeley</p>
     <p class="sidebar-location"><i class="fa-solid fa-location-dot"></i> Berkeley, CA</p>
@@ -49,27 +49,35 @@ permalink: /
 
   <!-- MAIN BIO CONTENT -->
   <div class="profile-main">
-    <h1>About Me</h1>
+    <h2>About Me</h2>
     <p>As an Open Science Librarian and Researcher, my work focuses on Open Science, Data, Reproducibility, and Transparency in Research Workflows. I support open scholarship initiatives across disciplines, helping researchers make their outputs open, transparent, and broadly accessible.</p>
 
     <h2>Areas of Interest and Participation</h2>
     <ul>
-      <li>Open Science Community Building</li>
-        <ul>
-          <li>I co-convene the <a href="https://bayareaopensciencegroup.github.io/">Bay Area Open Science Group</a>, a monthly community gathering of open science practitioners affiliated with UC Berkeley, UCSF, Stanford, and beyond.
-          <li>I serve on the steering committee of <a href="https://osclip.org/">OSCLIP</a>, the Open Science Collaborative of Library and Information Professionals.
-        </ul>
-      <li>Workflows, Reproducibility and Transparency</li>
-        <ul>
-          <li>Research Data Management
-          <li>Software Citation
-          <li>Workshops + Instruction related to these topics
-        </ul>
-      <li>Infrastructure</li>
-        <ul>
-          <li>Moving scientific publishing beyond the PDF, towards interactive platforms. The <a href="https://force11.github.io/pircwg/">FORCE11 PIRC working group</a> considered this problem. 
-          <li>Persistence, sustainability and innovation of open research platforms
-        </ul>
+  <li>
+    <strong>Open Science Community Building</strong>
+    <ul>
+      <li>I co-convene the <a href="https://bayareaopensciencegroup.github.io/">Bay Area Open Science Group</a>, a monthly community gathering of open science practitioners affiliated with UC Berkeley, UCSF, Stanford, and beyond.</li>
+      <li>I serve on the steering committee of <a href="https://osclip.org/">OSCLIP</a>, the Open Science Collaborative of Library and Information Professionals.</li>
     </ul>
+  </li>
+
+  <li>
+    <strong>Workflows, Reproducibility and Transparency</strong>
+    <ul>
+      <li>Research Data Management</li>
+      <li>Software Citation</li>
+      <li>Workshops + Instruction related to these topics</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Open Research Infrastructure</strong>
+    <ul>
+      <li>Moving scientific publishing beyond the PDF, towards interactive platforms. The <a href="https://force11.github.io/pircwg/">FORCE11 PIRC working group</a> considered this problem.</li>
+      <li>Persistence, sustainability and innovation of open research platforms</li>
+    </ul>
+  </li>
+</ul>
   </div>
 </div>
