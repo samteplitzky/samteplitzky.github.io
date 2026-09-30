@@ -50,14 +50,26 @@ permalink: /
   <!-- MAIN BIO CONTENT -->
   <div class="profile-main">
     <h1>About Me</h1>
-    <p>I am an Open Science Librarian and Researcher. My work focuses on Open Science, Data, Reproducibility, Software Citation, Transparency in Research Workflows. I support open scholarship initiatives across disciplines, helping researchers make their outputs open, transparent, and broadly accessible.</p>
+    <p>As an Open Science Librarian and Researcher, my work focuses on Open Science, Data, Reproducibility, and Transparency in Research Workflows. I support open scholarship initiatives across disciplines, helping researchers make their outputs open, transparent, and broadly accessible.</p>
 
-    <h2>Research Interests</h2>
+    <h2>Areas of Interest and Participation</h2>
     <ul>
-      <li>Open Science Workflows</li>
-      <li>Reproducibility and Transparency</li>
-      <li>Software Citation</li>
+      <li>Open Science Community Building</li>
+        <ul>
+          <li>I co-convene the <a href="https://bayareaopensciencegroup.github.io/">Bay Area Open Science Group</a>, a monthly community gathering of open science practitioners affiliated with UC Berkeley, UCSF, Stanford, and beyond.
+          <li>I serve on the steering committee of <a href="https://osclip.org/">OSCLIP</a>, the Open Science Collaborative of Library and Information Professionals.
+        </ul>
+      <li>Workflows, Reproducibility and Transparency</li>
+        <ul>
+          <li>Research Data Management
+          <li>Software Citation
+          <li>Workshops + Instruction related to these topics
+        </ul>
+      <li>Infrastructure</li>
+        <ul>
+          <li>Moving scientific publishing beyond the PDF, towards interactive platforms. The <a href="https://force11.github.io/pircwg/">FORCE11 PIRC working group</a> considered this problem. 
+          <li>Persistence, sustainability and innovation of open research platforms
+        </ul>
     </ul>
-
   </div>
 </div>

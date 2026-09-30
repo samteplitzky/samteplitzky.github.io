@@ -1,0 +1,48 @@
+---
+layout: default
+title: Talks
+permalink: /talks.html
+---
+
+# Talks
+
+- Teplitzky, Samantha. (2026, September 22). Research Data Management: Conducting Responsible, Reproducible Research. Yale Global Health Emerging Scholars invited talk, (online)<br>
+- Teplitzky, Samantha, & Sackmann, A. (2026, April 23). More Than Just Storage: Support for Open Scholarship through Campus Collaborations. UC Open Summit 2026, UC Berkeley. https://ucospo.net/events/uc-open-2026<br>
+- Teplitzky, Samantha. (2025, November 4). Open Science in Practice: Software Sharing and Citation in Earth Science and Astronomy Journals. Library and Information Services in Astronomy (LISA) 2025, Santiago, Chile. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17749667.svg)](https://doi.org/10.5281/zenodo.17749667)<br>
+- Teplitzky, Samantha. (2025, October 16). Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. Lightning talk at Cracking Open: Open Science Unconference, Carnegie Mellon University. [https://ucberk.li/pirc-gd](https://ucberk.li/pirc-gd) <br>
+- Teplitzky, Samantha. (2024, September 18). A panel on Diamond Open Access journals in the geosciences. AGU EPSP Connects monthly seminar series. [https://www.youtube.com/live/htYkqvHkNVo](https://www.youtube.com/live/htYkqvHkNVo) <br>
+- Teplitzky, Samantha, Dahdul, W., Scotti, K., & Sutherland, H. (2024, August 1). Navigating the Complexities of Open Science: Big Dreams, Future Plans. Presented at Force11 2024. UCLA. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13260315.svg)](https://doi.org/10.5281/zenodo.13260315)<br>
+- Teplitzky, Samantha. (2024, March 22). Research community outreach with the open science team agreement. Year of Open Science Culminating Conference. Virtual. [http://osf.io/3ycgf](http://osf.io/3ycgf)<br>
+- Dahdul, W., Deardorff, A., Otsuji, R., & Teplitzky, S. (2024, February 13). Cultivating Collaboration: Getting Started with Open Research. UC Love Data Week 2024 (Virtual). <br>
+- Teplitzky, Samantha, Convers, J., Funning, G., Hicks, S., Karasozen, E., & Rowe, C. (2023, December 11). Shaping the future with Seismica: Building a sustainable diamond open access researcher-run journal. AGU Fall Meeting 2023, San Francisco, CA. [https://doi.org/10.5281/zenodo.10383740](https://doi.org/10.5281/zenodo.10383740)<br>
+- Teplitzky, Samantha. (2023, December 10). Publishing open in the earth sciences: History, norms, new directions. Shaping the future with Researcher-run journals, San Francisco, CA.<br>
+- Teplitzky, S. (2023, September 19). Seismica: Open science and community building in a new diamond open access journal. Presented at Open Access Scholarly Publishing Association 2023 Conference (Virtual). [https://escholarship.org/uc/item/6cc6f8bx](https://escholarship.org/uc/item/6cc6f8bx)<br>
+- Teplitzky, S and Deardorff, A. (2023, July 26). Open Science, Community Building, and Co-Creation with the Bay Area Open Science Group. Keynote presentation at STEM Librarians Collaborative Meeting (Virtual) <br> 
+- Teplitzky, Samantha. (2022, October 12). Seismica: Open science and community building in a new diamond open access journal. Presented at GSA Annual Meeting, Denver, CO. doi: [10.1130/abs/2022AM-379123](https://gsa.confex.com/gsa/2022AM/webprogram/Paper379123.html)<br>
+- Lenhardt, W. C., Coward, C., Erdmann, C., Meyers, N. K., & Teplitzky, S. (2021, December). Climbing the FAIR Data Mountain: Librarians as Knowledge Sharing Mountaineers. In AGU Fall Meeting 2021. AGU.<br>
+- Teplitzky, S., Borghi, J., Deardorff, A. (2021, December 9) Growing a new Open Science Community, the Bay Area Open Science Group. Presented at Force11 2021 (Virtual).<br>
+- Teplitzky, S. with D. Borsboom, P. Michelucci, M. Hind. (2021, November 10) Invited Panel: Open Science & Good Research Practice, Third Symposium on Biases in Human Computation and Crowdsourcing, Delft, Netherlands/Virtual.<br>
+- Newcome, E., Dyess, B., Muhr, H., Powell, S., Teplitzky, S. (2021, October 27) Mapping the Bay: Engaging students and community during the pandemic and beyond. UC Libraries Forum (Virtual).<br>
+- Teplitzky, S., Tolliver, R., Tschirhart, L. (2021, October 22) Open Educational Resources in the Geosciences: Guidelines and Criteria. GSIS Annual Meeting (Virtual).<br> 
+- Teplitzky, S., & Tranfield, W. (2021, July 27–August 3). Introduction to open and reproducible practices in Earth Sciences. Case studies in the Earth Sciences: Current approaches to publishing, data and computation. Force 11 Scholarly Communication Institute (FSCI), Virtual
+- Teplitzky, S., Vollmer, T., Lair, S., Narock, T. & Gonder, J. (2021, April). Open access investment at the local level: Sharing diverse tactics to improve access and affordability. Presented at ACRL 2021 (Virtual).<br>
+- Teplitzky, S. (2021, January 13). Virtual Online Library Tutorials (vOLT), an outreach project with Jupyterbook. Presented at Science Librarianship in the time of COVID (Virtual).<br>
+- Teplitzky, S. (2020, October 30). GeoScience Information Society Annual Meeting, Professional Issues Roundtable.<br>
+- Teplitzky, S., Powell, S., & Sackmann, A. (2019, December 13). Open Science and Data Management: Introducing Graduate Students to Research Workflows in a Local Context. Poster presented at AGU 2019 Fall Meeting. San Francisco, CA.<br>
+- Teplitzky, Samantha. (2019, November 1). Introducing Graduate Students to Open Research Workflows. Lightning talk presented at Berkeley-Stanford Science Librarians’ Meeting, Berkeley, CA.<br>
+- Teplitzky, Samantha. (2019, October 17). Hanging out your open science shingle: launching an open science program by supporting a new graduate cohort. Presented at Force11 2019, Edinburgh, Scotland. [https://zenodo.org/record/3510306](https://zenodo.org/record/3510306)<br>
+- Teplitzky, S., Quigley, B., & Sackmann, A. (2019, April). Supporting Research Workflows with Online Collaborative LaTeX Writing Tools. Presented at ACRL 2019, Cleveland, OH. Retrieved from [https://escholarship.org/uc/item/81t2w1gd](https://escholarship.org/uc/item/81t2w1gd)<br>
+- Teplitzky, Samantha. (2019, February 14). Launching Research Workflows at the UC Berkeley Physics Library. Lightning Talk presented at AAAS Librarians’ Meeting, Washington, DC.<br>
+- Teplitzky, Samantha and Sackmann, Anna. (2018, March 30). Convergence of Data and Scholarship: Open Access and Reproducibility. Presented at Online Northwest, Portland, OR. [http://archives.pdx.edu/ds/psu/24324](http://archives.pdx.edu/ds/psu/24324)<br>
+- Teplitzky, Samantha. (2017, October). Open Educational Resources in the Earth Sciences: Examples from the UC Berkeley Library’s Affordable Course Content Pilot Program. Presented at GSA/GSIS Annual Meeting, Seattle, WA. doi: [10.1130/abs/2017AM-297886](https://gsa.confex.com/gsa/2017AM/webprogram/Paper297886.html)<br>
+- Teplitzky, Samantha and Warren, Mea. (2017, October). Trends in Open Educational Resources in the Earth Sciences: Emerging Roles for the Academic Library. Poster presented at GSA/GSIS Annual Meeting, Seattle, WA. doi: [10.1130/abs/2017AM-297881](https://gsa.confex.com/gsa/2017AM/webprogram/Paper297881.html) Poster: [https://escholarship.org/uc/item/9vv862ms](https://escholarship.org/uc/item/9vv862ms)<br>
+- Teplitzky, Samantha and Phillips, Margaret. (2017, April). Qualitative analysis of the Berkeley Research Impact Initiative (BRII) open access fund at UC Berkeley. Invited paper presented at ACS Annual Meeting, San Francisco.<br>
+- Teplitzky, Samantha and Powell, Susan. (2016, December). Pop-up exhibits as an outreach tool: Connecting academic and public audiences with library resources. Poster presented at AGU Fall Meeting, San Francisco, CA. Abstract: [https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/126853](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/126853)
+Poster: [https://escholarship.org/uc/item/8bh1p8nn](https://escholarship.org/uc/item/8bh1p8nn)<br>
+- Teplitzky, Samantha and Powell, Susan. (2016, December). Taking the world for a spin: teaching spatial and data visualization with a digital globe. Poster presented at AGU Fall Meeting, San Francisco, CA. Abstract: [https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/126842](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/126842)
+Poster: [https://escholarship.org/uc/item/7cb6641c](https://escholarship.org/uc/item/7cb6641c)<br>
+- Teplitzky, Samantha. Lightning talk, UC Berkeley’s Digital Globe, GSA/GSIS, Denver, September 25, 2016<br>
+- Teplitzky, S. (2016, September). Open Data, [Open] Access: How data sharing encourages article sharing in the Earth Sciences. Paper presented at the GSA Annual Meeting, Denver, CO. Abstract: [10.1130/abs/2016AM-279102](https://gsa.confex.com/gsa/2016AM/webprogram/Paper279102.html)<br>
+- Teplitzky, S., & Phillips, M. (2015, October). Evaluating the impact of open access at Berkeley: a qualitative analysis of the BRII program. In LAUC-B Conference 2015. Open Access: Reclaiming Scholarship for the Academy. [https://escholarship.org/uc/item/8c33n5fn](https://escholarship.org/uc/item/8c33n5fn)<br>
+- Powell, S., & Teplitzky, S. (2015, July). Plotting a New Map-tastic Course: Building community and unearthing collections through pop-up exhibits. In American Library Association Annual Conference 2015 Poster Presentation. [https://escholarship.org/uc/item/14t227zj](https://escholarship.org/uc/item/14t227zj)<br>
+- Loo, J. L., Quigley, B. D., Ngo, L. T., Powell, S., & Teplitzky, S. (2015, July). Empowering the Frontline: A Dynamic Online Reference Manual and Training Session for Student Library Employee Reference Skills. In American Library Association Annual Conference 2015 Poster Presentation.<br>

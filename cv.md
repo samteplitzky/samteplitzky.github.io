@@ -150,7 +150,7 @@ Teplitzky, S. (2017). Open data, [open] access: linking data sharing and article
 - Incentivizing Reuse Working Group, Creative Commons, 2-4/2026
 - eScholarship Advisory Council, 2025 - 
 - Steering Committee, Open Science Collaborative of Library and Information Professionals (OSCLIP), 2025 -
-- US Representative to SCOAP3 Governing Council, 2024-2026
+- SCOAP3 Governing Council - US Representative, 2024-2029
 - EarthArXiV Advisory Council, 2023-present
 - Editor, Journal of Librarianship and Scholarly Communications, 2022-present
 - Founding Open Science Executive Editor of Seismica, Diamond Open Access Journal, 2021-present 
